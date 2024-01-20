@@ -1,0 +1,14 @@
+obj/ 
+Properties/
+logs/ 
+bin/
+# Ignore Visual Studio generated files
+.vs/
+
+# Ignore compiled binaries and executables
+*.o
+*.obj
+*.dll
+*.so
+*.exe
+*.log
